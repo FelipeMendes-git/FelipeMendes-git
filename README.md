@@ -25,9 +25,9 @@
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,react,html,css,tailwind,vite&perline=8" alt="Linguagens e front-end" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,react,html,css,vite&perline=7" alt="Linguagens e front-end" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,firebase,python,java,vscode&perline=8" alt="Banco de dados e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,python,java,vscode&perline=7" alt="Banco de dados e ferramentas" />
 </p>
 
 <p align="center">
