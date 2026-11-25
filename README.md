@@ -63,4 +63,11 @@
   </tr>
 </table>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMendes-git/FelipeMendes-git/output/cobrinha-escura.svg" />
+    <img src="https://raw.githubusercontent.com/FelipeMendes-git/FelipeMendes-git/output/cobrinha.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+  </picture>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a3fd0,100:131a4a&height=110&section=footer" width="100%" alt="" />
