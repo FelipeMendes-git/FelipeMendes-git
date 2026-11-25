@@ -63,22 +63,4 @@
   </tr>
 </table>
 
-## Atividade no GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeMendes-git&show_icons=true&hide_border=true&bg_color=131a4a&title_color=ffd43b&text_color=f1f2f7&icon_color=aab3e6&locale=pt-br&count_private=true&rank_icon=github" alt="Estatísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMendes-git&layout=compact&hide_border=true&bg_color=131a4a&title_color=ffd43b&text_color=f1f2f7&locale=pt-br&langs_count=6" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipeMendes-git&hide_border=true&background=131a4a&ring=ffd43b&fire=ffd43b&currStreakNum=f1f2f7&sideNums=f1f2f7&currStreakLabel=ffd43b&sideLabels=aab3e6&dates=aab3e6&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMendes-git/FelipeMendes-git/output/cobrinha-escura.svg" />
-    <img src="https://raw.githubusercontent.com/FelipeMendes-git/FelipeMendes-git/output/cobrinha.svg" alt="Cobrinha comendo o gráfico de contribuições" />
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a3fd0,100:131a4a&height=110&section=footer" width="100%" alt="" />
