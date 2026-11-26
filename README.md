@@ -61,6 +61,16 @@
       <img src="https://img.shields.io/badge/GSAP-131a4a?style=flat-square&logo=greensock&logoColor=88CE02" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/FelipeMendes-git/conceitos-ui-ux">🎨 Conceitos de UI/UX</a></h3>
+      Guia visual de web design: cada página explica um conceito de UI/UX e é desenhada com ele. Projeto de estudo, em construção.
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-131a4a?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-131a4a?style=flat-square&logo=vite&logoColor=FFD43B" />
+      <img src="https://img.shields.io/badge/CSS-131a4a?style=flat-square&logo=css3&logoColor=38BDF8" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
