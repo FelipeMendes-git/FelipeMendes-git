@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://devfelipemendes.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-devfelipemendes.com.br-131a4a?style=for-the-badge&labelColor=ffd43b&logo=googlechrome&logoColor=131a4a" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/felipe-dias-mendes-"><img src="https://img.shields.io/badge/LinkedIn-Felipe%20Dias%20Mendes-2a3fd0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/felipe-dias-mendes-"><img src="https://img.shields.io/badge/LinkedIn-Felipe%20Dias%20Mendes-2a3fd0?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
 </div>
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle" />
   <img src="https://img.shields.io/badge/APIs-RESTful-2a3fd0?style=flat-square" alt="APIs RESTful" />
   <img src="https://img.shields.io/badge/SQL-avan%C3%A7ado-131a4a?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/GSAP-anima%C3%A7%C3%B5es-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
@@ -42,33 +42,31 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/FelipeMendes-git/hercules">🎙️ Hércules</a></h3>
-      Assistente de voz que roda no PC e conversa com o Claude Code em português: escuta pelo nome, entende a fala com Whisper e responde em voz alta.
+      Assistente de voz que roda no PC e conversa com o Claude Code em português: escuta pelo nome e responde em voz alta.
       <br /><br />
-      <img src="https://img.shields.io/badge/Python-131a4a?style=flat-square&logo=python&logoColor=ffd43b" />
-      <img src="https://img.shields.io/badge/Whisper-131a4a?style=flat-square" />
-      <img src="https://img.shields.io/badge/Qt-131a4a?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-131a4a?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" />
+      <img src="https://img.shields.io/badge/Claude-131a4a?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude" />
+      <img src="https://img.shields.io/badge/Qt-131a4a?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt" />
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://devfelipemendes.com.br">🌐 Portfólio</a></h3>
       Meu site pessoal, com animações e interações feitas à mão.
       <br /><br />
       <a href="https://github.com/FelipeMendes-git/felipemendesdev">Ver código</a>
       <br /><br />
-      <img src="https://img.shields.io/badge/React-131a4a?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-131a4a?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-      <img src="https://img.shields.io/badge/GSAP-131a4a?style=flat-square&logo=greensock&logoColor=88CE02" />
+      <img src="https://img.shields.io/badge/React-131a4a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind-131a4a?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/GSAP-131a4a?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/FelipeMendes-git/conceitos-ui-ux">🎨 Conceitos de UI/UX</a></h3>
-      Guia visual de web design: cada página explica um conceito de UI/UX e é desenhada com ele. Projeto de estudo, em construção.
+      Guia visual de web design: cada página explica um conceito de UI/UX e é desenhada com ele.
       <br /><br />
-      <img src="https://img.shields.io/badge/React-131a4a?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-131a4a?style=flat-square&logo=vite&logoColor=FFD43B" />
-      <img src="https://img.shields.io/badge/CSS-131a4a?style=flat-square&logo=css3&logoColor=38BDF8" />
+      <img src="https://img.shields.io/badge/React-131a4a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-131a4a?style=flat-square&logo=vite&logoColor=FFD43B" alt="Vite" />
+      <img src="https://img.shields.io/badge/CSS-131a4a?style=flat-square&logo=css&logoColor=38BDF8" alt="CSS" />
     </td>
   </tr>
 </table>
