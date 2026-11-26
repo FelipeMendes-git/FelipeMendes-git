@@ -61,8 +61,10 @@
       <img src="selos/gsap.svg" alt="GSAP" />
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/FelipeMendes-git/conceitos-ui-ux">🎨 Conceitos de UI/UX</a></h3>
+      <h3><a href="https://conceitos-ui-ux.vercel.app/">🎨 Conceitos de UI/UX</a></h3>
       Guia visual de web design: cada página explica um conceito de UI/UX e é desenhada com ele.
+      <br /><br />
+      <a href="https://github.com/FelipeMendes-git/conceitos-ui-ux">Ver código</a>
       <br /><br />
       <img src="selos/react.svg" alt="React" />
       <img src="selos/vite.svg" alt="Vite" />
