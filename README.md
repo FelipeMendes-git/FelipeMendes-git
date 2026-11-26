@@ -46,9 +46,9 @@
       <h3><a href="https://github.com/FelipeMendes-git/hercules">🎙️ Hércules</a></h3>
       Assistente de voz que roda no PC e conversa com o Claude Code em português: escuta pelo nome e responde em voz alta.
       <br /><br />
-      <img src="https://img.shields.io/badge/Python-131a4a?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" />
-      <img src="https://img.shields.io/badge/Claude-131a4a?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude" />
-      <img src="https://img.shields.io/badge/Qt-131a4a?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt" />
+      <img src="selos/python.svg" alt="Python" />
+      <img src="selos/claude.svg" alt="Claude" />
+      <img src="selos/qt.svg" alt="Qt" />
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://devfelipemendes.com.br">🌐 Portfólio</a></h3>
@@ -56,17 +56,17 @@
       <br /><br />
       <a href="https://github.com/FelipeMendes-git/felipemendesdev">Ver código</a>
       <br /><br />
-      <img src="https://img.shields.io/badge/React-131a4a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind-131a4a?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/GSAP-131a4a?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+      <img src="selos/react.svg" alt="React" />
+      <img src="selos/tailwind.svg" alt="Tailwind" />
+      <img src="selos/gsap.svg" alt="GSAP" />
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/FelipeMendes-git/conceitos-ui-ux">🎨 Conceitos de UI/UX</a></h3>
       Guia visual de web design: cada página explica um conceito de UI/UX e é desenhada com ele.
       <br /><br />
-      <img src="https://img.shields.io/badge/React-131a4a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Vite-131a4a?style=flat-square&logo=vite&logoColor=FFD43B" alt="Vite" />
-      <img src="https://img.shields.io/badge/CSS-131a4a?style=flat-square&logo=css&logoColor=38BDF8" alt="CSS" />
+      <img src="selos/react.svg" alt="React" />
+      <img src="selos/vite.svg" alt="Vite" />
+      <img src="selos/css.svg" alt="CSS" />
     </td>
   </tr>
 </table>
